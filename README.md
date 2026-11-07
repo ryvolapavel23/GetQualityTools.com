@@ -17,7 +17,7 @@ All tools run client-side directly in your web browser. Proprietary manufacturin
 | **Fishbone Diagram (Ishikawa)** | Cause and effect Root Cause Analysis (RCA) using the 6M manufacturing framework. | 👉 [Build Fishbone Diagram](https://getqualitytools.com/ishikawa-diagram-online) |
 | **Cpk / Ppk Calculator** | Statistical Process Control (SPC) capability study, normal distribution histogram, and PPM defect calculation. | 👉 [Calculate Cpk / Ppk](https://getqualitytools.com/cpk-calculator-online) |
 | **5 Whys Analysis** | Systematic root cause breakdown method for corrective and preventive actions (CAPA). | 👉 [Run 5 Whys Analysis](https://getqualitytools.com/5-why-analysis) |
-| **LPA Checklist Builder** | Layered Process Audit (CQI-8 / AIAG) checklist generator for manufacturing plant audits. | 👉 [Create LPA Checklist](https://getqualitytools.com/lpa-checklist-online) |
+| **LPA Checklist Builder** | Layered Process Audit checklist generator for manufacturing plant audits. | 👉 [Create LPA Checklist](https://getqualitytools.com/lpa-checklist-online) |
 | **Process Flowchart Maker** | Standard process mapping and manufacturing flow diagram builder for control plans. | 👉 [Draw Flowchart](https://getqualitytools.com/flowchart-maker-online) |
 | **Event Timeline Maker** | Chronological milestone reconstruction and incident timeline for customer complaint investigations. | 👉 [Build Timeline](https://getqualitytools.com/timeline-maker-online) |
 
