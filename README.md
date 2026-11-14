@@ -37,6 +37,9 @@ Practical engineering guides, benchmarks, and real-world automotive case studies
 - Engineering parameters and production metrics remain strictly inside your local browser session.
 - PDF exports are formatted for Tier-1 automotive and OEM customer audits (Ford, GM, Stellantis, VW Group, BMW).
 
-🌐 Operated by [GetQualityTools.com](https://getqualitytools.com).  
-*(European czech edition available at [NastrojeKvality.cz](https://nastrojekvality.cz).)*
-
+---
+### 🌐 Live Quality Management Tools
+Interactive web applications for automotive engineers:
+- **Global / US:** [GetQualityTools.com](https://getqualitytools.com)
+- **Czech Republic:** [NastrojeKvality.cz](https://nastrojekvality.cz)
+- **Poland:** [NarzedziaJakosci.pl](https://narzedziajakosci.pl)
